@@ -1,1 +1,1 @@
-https://github.com/zhenycsd-dev/ono-tebe-nado-ad-1
+https://github.com/zhenycsd-dev/ono-tebe-nado
